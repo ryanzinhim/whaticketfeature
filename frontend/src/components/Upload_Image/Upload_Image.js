@@ -43,4 +43,4 @@ const UploadImage = () => {
   );
 };
 
-export default ImageUploader;
+export default UploadImage;
